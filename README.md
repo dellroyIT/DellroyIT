@@ -1,4 +1,4 @@
-### Hello, I'm Dellroy IT and I'm beginner Front-End developer
+<div style="text-align: center">Hello, I'm Dellroy IT and I'm beginner Front-End developer</div>
 
 ### 👩‍💻 Socials:
 
