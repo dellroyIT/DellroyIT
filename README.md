@@ -1,5 +1,4 @@
-##<div class='center'>Hello, I'm Dellroy IT and I'm beginner Front-End developer</div>
-
+### Hello, I'm Dellroy IT and I'm beginner Front-End developer
 
 ### 👩‍💻 Socials:
 
