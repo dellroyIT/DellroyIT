@@ -1,4 +1,4 @@
-### Hello, I'm Dellroy IT and I'm beginner Front-End developer
+### Hi, I'm Dellroy IT and I'm a beginner Front-End developer
 
 
 ### 👩‍💻 Socials:
