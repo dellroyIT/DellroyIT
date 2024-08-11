@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm <a href="https://daniilshat.ru/" target="_blank">Dellroy IT</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h4 align="center">Beginner Front-End developer</h4>
+<h4 align="center">And I'm a beginner Front-End developer with great expirience</h4>
 
 
 ### 👩‍💻 Socials:
